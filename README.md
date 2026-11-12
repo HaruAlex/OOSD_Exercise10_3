@@ -93,7 +93,7 @@ src/
     └── Main.java
 ```
 
-Mỗi lớp có JavaDoc comment mô tả lớp, thuộc tính và phương thức. Mã nguồn nằm trong thư mục `Bai_tap_10-3_Source_Code` và được đóng gói thành file ZIP riêng.
+Mỗi lớp có JavaDoc comment mô tả lớp, thuộc tính và phương thức. Mã nguồn nằm trong thư mục `OOSD_Exercise10_3`
 
 ## 6. Giải thích cách hoạt động
 
